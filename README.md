@@ -21,6 +21,7 @@
 
 Built with a lovely pink aesthetic and intuitive design, MyLife makes personal management not just easy, but delightful! 🎀
 
+project still not completed
 ---
 
 ## 🎯 Features
