@@ -1,4 +1,3 @@
-```markdown
 # 🌸 MyLife - Your Personal Life Companion 💖
 
 <div align="center">
