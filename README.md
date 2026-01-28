@@ -22,6 +22,13 @@
 Built with a lovely pink aesthetic and intuitive design, MyLife makes personal management not just easy, but delightful! 🎀
 
 project still not completed
+link video in all my accounts :
+linkedin:https://www.linkedin.com/feed/update/urn:li:activity:7422158583791865856/
+tiktok:https://www.tiktok.com/@aetheria_21/video/7600295256885660958?is_from_webapp=1&sender_device=pc&web_id=7583590000048473612
+instagram:https://www.instagram.com/p/DUCzEipjJAH/
+x:https://x.com/aetheria_21/status/2016392275694072040
+youtube:https://youtu.be/c3gvDMVGwcE?si=xJbCHWmM68rXQYBc
+
 ---
 
 ## 🎯 Features
